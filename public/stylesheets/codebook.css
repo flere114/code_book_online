@@ -1,0 +1,22 @@
+#section label {
+	padding-top: 5px;
+}
+
+#section li {
+	padding-top: 5px;
+}
+#bodyPanel ul li span, p {
+	font-size: large;
+}
+
+#bodyPanel ul li ul li span {
+	font-size: medium;
+}
+
+#bodyPanel ul li button span {
+	font-size: small;
+}
+
+#bodyPanel ul li ul li button span {
+	font-size: small;
+}
